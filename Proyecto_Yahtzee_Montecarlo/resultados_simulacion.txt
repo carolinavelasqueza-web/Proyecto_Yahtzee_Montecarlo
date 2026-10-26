@@ -1,0 +1,5 @@
+Resultados calculados con yahtzee_montecarlo.py (semilla=42)
+
+100 partidas: promedio J1=146.49; promedio J2=137.88; victorias J1=56.00%; victorias J2=43.00%; empates=1
+1000 partidas: promedio J1=143.56; promedio J2=142.70; victorias J1=50.20%; victorias J2=49.00%; empates=8
+5000 partidas: promedio J1=144.78; promedio J2=143.52; victorias J1=49.90%; victorias J2=49.40%; empates=35
